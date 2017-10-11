@@ -1,0 +1,4 @@
+src/classes/PMDtestingclass1.cls:30:	Avoid Soql queries inside loops
+src/classes/PMDtestingclass1.cls:33:	Variables should start with a lowercase character, 'NewContact' starts with uppercase character.
+src/classes/PMDtestingclass1.cls:44:	Avoid DML statements inside loops
+src/classes/PMDtestingclass1.cls:52:	Variables should start with a lowercase character, 'NewContact' starts with uppercase character.
