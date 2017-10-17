@@ -41,7 +41,7 @@ public class PMDTest {
                 
                 
                 //line added - waveoc
-                insert newContact;
+           //     insert newContact;
             }
             
          //Bad Example End
