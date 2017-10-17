@@ -27,8 +27,8 @@ public class PMDTest {
              //Bad Example Start         
             for ( integer cnt=0; cnt < countContact; cnt++) {
                 
-                List<Contact> contacts = [select id, firstname, lastname, email
-                        from Contact where accountId = :a.Id];
+             //   List<Contact> contacts = [select id, firstname, lastname, email
+              //          from Contact where accountId = :a.Id];
                 
                 Contact NewContact = new Contact (
                 FirstName = 'xyzFirst1111111111111115 Bad'+cnt + ' ',
